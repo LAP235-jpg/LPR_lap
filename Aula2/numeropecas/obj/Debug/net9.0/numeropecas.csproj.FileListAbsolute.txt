@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\bin\Debug\net9.0\numeropecas.exe
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\bin\Debug\net9.0\numeropecas.deps.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\bin\Debug\net9.0\numeropecas.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\bin\Debug\net9.0\numeropecas.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\bin\Debug\net9.0\numeropecas.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\numeropecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\numeropecas.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\numeropecas.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\numeropecas.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\numeropecas.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\refint\numeropecas.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\numeropecas.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\numeropecas.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\numeropecas\obj\Debug\net9.0\ref\numeropecas.dll

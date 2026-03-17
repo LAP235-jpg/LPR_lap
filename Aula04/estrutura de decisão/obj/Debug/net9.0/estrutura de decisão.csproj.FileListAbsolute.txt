@@ -1,0 +1,14 @@
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\bin\Debug\net9.0\estrutura de decisão.exe
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\bin\Debug\net9.0\estrutura de decisão.deps.json
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\bin\Debug\net9.0\estrutura de decisão.runtimeconfig.json
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\bin\Debug\net9.0\estrutura de decisão.dll
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\bin\Debug\net9.0\estrutura de decisão.pdb
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\estrutura de decisão.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\estrutura de decisão.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\estrutura de decisão.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\estrutura de decisão.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\estrutura de decisão.dll
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\refint\estrutura de decisão.dll
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\estrutura de decisão.pdb
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\estrutura de decisão.genruntimeconfig.cache
+c:\Users\Alunos\Desktop\LPR_lap\Aula04\estrutura de decisão\obj\Debug\net9.0\ref\estrutura de decisão.dll

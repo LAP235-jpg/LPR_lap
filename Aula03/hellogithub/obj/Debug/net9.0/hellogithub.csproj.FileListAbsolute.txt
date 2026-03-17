@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\bin\Debug\net9.0\hellogithub.exe
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\bin\Debug\net9.0\hellogithub.deps.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\bin\Debug\net9.0\hellogithub.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\bin\Debug\net9.0\hellogithub.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\bin\Debug\net9.0\hellogithub.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\hellogithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\hellogithub.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\hellogithub.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\hellogithub.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\hellogithub.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\refint\hellogithub.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\hellogithub.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\hellogithub.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula03\hellogithub\obj\Debug\net9.0\ref\hellogithub.dll

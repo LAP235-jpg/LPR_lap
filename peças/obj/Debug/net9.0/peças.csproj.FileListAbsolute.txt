@@ -1,0 +1,4 @@
+C:\Users\Alunos\Desktop\LPR_lap\peças\obj\Debug\net9.0\peças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_lap\peças\obj\Debug\net9.0\peças.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\peças\obj\Debug\net9.0\peças.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_lap\peças\obj\Debug\net9.0\peças.csproj.CoreCompileInputs.cache

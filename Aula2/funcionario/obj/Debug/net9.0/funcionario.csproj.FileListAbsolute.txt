@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\bin\Debug\net9.0\funcionario.exe
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\bin\Debug\net9.0\funcionario.deps.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\bin\Debug\net9.0\funcionario.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\bin\Debug\net9.0\funcionario.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\bin\Debug\net9.0\funcionario.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\funcionario.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\funcionario.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\funcionario.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\refint\funcionario.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\funcionario.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\funcionario.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula2\funcionario\obj\Debug\net9.0\ref\funcionario.dll
