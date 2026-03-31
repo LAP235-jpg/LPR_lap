@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\bin\Debug\net9.0\teste-de-adivinhação.exe
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\bin\Debug\net9.0\teste-de-adivinhação.deps.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\bin\Debug\net9.0\teste-de-adivinhação.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\bin\Debug\net9.0\teste-de-adivinhação.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\bin\Debug\net9.0\teste-de-adivinhação.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.sourcelink.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\refint\teste-de-adivinhação.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\teste-de-adivinhação.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\teste-de-adivinhação\obj\Debug\net9.0\ref\teste-de-adivinhação.dll

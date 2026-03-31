@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\bin\Debug\net9.0\média aritimetica.exe
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\bin\Debug\net9.0\média aritimetica.deps.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\bin\Debug\net9.0\média aritimetica.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\bin\Debug\net9.0\média aritimetica.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\bin\Debug\net9.0\média aritimetica.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.sourcelink.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\refint\média aritimetica.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\média aritimetica.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\média aritimetica\obj\Debug\net9.0\ref\média aritimetica.dll

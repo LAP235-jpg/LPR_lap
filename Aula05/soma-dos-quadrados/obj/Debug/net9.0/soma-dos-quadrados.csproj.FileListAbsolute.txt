@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\bin\Debug\net9.0\soma-dos-quadrados.exe
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\bin\Debug\net9.0\soma-dos-quadrados.deps.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\bin\Debug\net9.0\soma-dos-quadrados.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\bin\Debug\net9.0\soma-dos-quadrados.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\bin\Debug\net9.0\soma-dos-quadrados.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.sourcelink.json
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\refint\soma-dos-quadrados.dll
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.pdb
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\soma-dos-quadrados.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_lap\Aula05\soma-dos-quadrados\obj\Debug\net9.0\ref\soma-dos-quadrados.dll
