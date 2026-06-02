@@ -1,0 +1,15 @@
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\bin\Debug\net10.0\numero par ou impar em vetor.exe
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\bin\Debug\net10.0\numero par ou impar em vetor.deps.json
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\bin\Debug\net10.0\numero par ou impar em vetor.runtimeconfig.json
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\bin\Debug\net10.0\numero par ou impar em vetor.dll
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\bin\Debug\net10.0\numero par ou impar em vetor.pdb
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.AssemblyInfoInputs.cache
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.AssemblyInfo.cs
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.csproj.CoreCompileInputs.cache
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.sourcelink.json
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.dll
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\refint\numero par ou impar em vetor.dll
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.pdb
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\numero par ou impar em vetor.genruntimeconfig.cache
+C:\Users\LUIGI\Desktop\LPR_lap\LPR_lap\Aula07\numero par ou impar em vetor\obj\Debug\net10.0\ref\numero par ou impar em vetor.dll

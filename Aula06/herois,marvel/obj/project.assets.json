@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\Aula06\\herois,marvel\\herois,marvel.csproj",
+      "projectUniqueName": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula06\\herois,marvel\\herois,marvel.csproj",
       "projectName": "herois,marvel",
-      "projectPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\Aula06\\herois,marvel\\herois,marvel.csproj",
+      "projectPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula06\\herois,marvel\\herois,marvel.csproj",
       "packagesPath": "C:\\Users\\LUIGI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\Aula06\\herois,marvel\\obj\\",
+      "outputPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula06\\herois,marvel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
