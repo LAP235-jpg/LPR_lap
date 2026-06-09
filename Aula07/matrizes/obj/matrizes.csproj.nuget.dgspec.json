@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\exercicio 2\\exercicio 2.csproj": {}
+    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\matrizes\\matrizes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\exercicio 2\\exercicio 2.csproj": {
+    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\matrizes\\matrizes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\exercicio 2\\exercicio 2.csproj",
-        "projectName": "exercicio 2",
-        "projectPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\exercicio 2\\exercicio 2.csproj",
+        "projectUniqueName": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\matrizes\\matrizes.csproj",
+        "projectName": "matrizes",
+        "projectPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\matrizes\\matrizes.csproj",
         "packagesPath": "C:\\Users\\LUIGI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\exercicio 2\\obj\\",
+        "outputPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula07\\matrizes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
