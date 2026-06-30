@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+
+namespace MyFirstApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<int> notas = new List<int>();
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine($"Adicione a nota {i + 1}:");
+                int ad = Convert.ToInt32(Console.ReadLine());
+
+                notas.Add(ad);
+            }
+
+            Console.WriteLine("\nNotas digitadas:");
+
+            foreach (int nota in notas)
+            {
+                Console.WriteLine(nota);
+            }
+        }
+    }
+}
