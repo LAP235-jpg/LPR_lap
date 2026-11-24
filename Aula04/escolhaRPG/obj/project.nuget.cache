@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BWh+wh98Ddg=",
+  "dgSpecHash": "x0OiKCX9ELI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula04\\escolhaRPG\\escolhaRPG.csproj",
+  "projectFilePath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\LPR_lap\\Aula04\\escolhaRPG\\escolhaRPG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUIGI\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
     "C:\\Users\\LUIGI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj": {}
+    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj": {
+    "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj",
+        "projectUniqueName": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj",
         "projectName": "funcionario",
-        "projectPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj",
+        "projectPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\funcionario.csproj",
         "packagesPath": "C:\\Users\\LUIGI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\obj\\",
+        "outputPath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\LPR_lap\\Aula2\\funcionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

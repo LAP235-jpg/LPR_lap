@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8Fv34qbans=",
+  "dgSpecHash": "dU4OKhPKyxo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\Aula04\\estrutura de decisão\\estrutura de decisão.csproj",
+  "projectFilePath": "C:\\Users\\LUIGI\\Desktop\\LPR_lap\\LPR_lap\\LPR_lap\\Aula04\\estrutura de decisão\\estrutura de decisão.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUIGI\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
     "C:\\Users\\LUIGI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",

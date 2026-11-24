@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numeropecas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f813709e47b5ed0f213bf3343786240f0f7feb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f13ab724f947e4c3c727a30fd595b4a469a1f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("numeropecas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numeropecas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
